@@ -1,2 +1,2 @@
 # testworld
-tetsting ground fpr repository design
+testing ground for repository design
